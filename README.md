@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm Rachid!<br>💼 I'm currently working on<br><br>🔧 Building hands-on cybersecurity labs & small automation tools<br><br>🤝 I'm looking to collaborate on<br><br>🛡️ Beginner-friendly cybersecurity projects & open-source learning tools<br><br>🆘 I'm looking for help with<br><br>💡 Learning best practices for defensive security & ethical hacking workflows<br><br>🎓 I'm currently learning<br><br>🔐 Cybersecurity at Kristiania in Bergen<br><br>💬 Ask me about<br><br>📚 Security fundamentals, Python basics, and study tips for new IT students<br>
+
 
 
 ## 🌐 Socials:
